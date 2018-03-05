@@ -1,0 +1,22 @@
+canvas{
+	width:100%;
+	heigh: 100%;
+	background-color: black;
+	margin:0; 
+}
+
+body{
+	height: 100%;
+	margin:0 
+	
+}
+
+.index
+{
+	font-family: 'Indie Flower', cursive;
+	color: white;
+	margin-top: 20%;
+	margin-left: 20%;
+	background-color: black;
+
+}
